@@ -53,18 +53,18 @@ ER図の画像
 ## 環境構築
 
 #### ディレクトリ構成
-atte
-├── docker
-│   ├── mysql
-│   │   ├── data
-│   │   └── my.cnf
-│   ├── nginx
-│   │   └── default.conf
-│   └── php
-│       ├── Dockerfile
-│       └── php.ini
-├── docker-compose.yml
-└── src
+atte  
+├── docker  
+│&emsp;&emsp;├── mysql  
+│&emsp;&emsp;│&emsp;&emsp;├── data  
+│&emsp;&emsp;│&emsp;&emsp;└── my.cnf  
+│&emsp;&emsp;├── nginx  
+│&emsp;&emsp;│&emsp;&emsp;└── default.conf  
+│&emsp;&emsp;└── php  
+│&emsp;&emsp;&emsp;&emsp;&emsp;├── Dockerfile  
+│&emsp;&emsp;&emsp;&emsp;&emsp;└── php.ini  
+├── docker-compose.yml  
+└── src  
 
 #### パッケージのインストール
 $ composer -v
