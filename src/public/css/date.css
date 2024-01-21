@@ -1,0 +1,77 @@
+table,
+td,
+th {
+    text-align: center;
+    border-bottom: 1px solid darkgrey;
+    padding: 15px 25px;
+    margin: 0 auto;
+}
+
+.date__table--wrapper {
+    margin: 0 auto;
+    padding: 50px 15px 30px;
+    max-width: 1230px;
+    width: 100%;
+}
+
+.date__link {
+    margin-bottom: 20px;
+}
+
+.date__link--button {
+    padding: 3px 15px;
+    margin: 0 10px;
+    border: 1.5px solid royalblue;
+    border-radius: 3px;
+    background: white;
+    color: royalblue;
+    font-weight: bold;
+}
+
+.date__table {
+    margin: 0 auto;
+    width: 100%;
+}
+
+.date__th {
+    border-top: 1px solid darkgrey;
+    border-bottom: 1px solid darkgrey;
+    margin-top: 20px;
+}
+
+.date__th th {
+    padding: 15px 10px;
+}
+
+.admin__td {
+    border-bottom: 1px solid darkgrey;
+    font-size: 10px;
+}
+
+.admin__td--name {
+    font-size: large;
+}
+
+.date__paginate svg {
+    width: 30px;
+    height: 30px;
+}
+
+svg.w-5.h-5 {
+    width: 30px;
+    height: 30px;
+    padding: 10px;
+    border-radius: 3px;
+    background: white;
+    font-size: 10px;
+}
+
+svg.w-5.h-5 {
+    font-size: 16px;
+    background: white;
+    color: royalblue;
+}
+
+.pagination li.disabled {
+    cursor: pointer;
+}
