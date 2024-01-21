@@ -3,7 +3,6 @@ Atte（アット）
 
 ## 概要
 勤怠管理システムアプリ
-（トップ画面の画像）
 <img width="960" alt="スクリーンショット 2024-01-21 163058" src="https://github.com/srgnair/20240122_shirogane_Atte/assets/143247574/42a15fca-8ba3-4971-95e2-d2b8ee57cb82">
 
 
@@ -50,7 +49,8 @@ Atte（アット）
 テーブル設計の画像
 
 ## ER図
-ER図の画像
+<img width="429" alt="スクリーンショット 2024-01-21 163809" src="https://github.com/srgnair/20240122_shirogane_Atte/assets/143247574/596a453e-1c44-4025-bcb0-d187209201b6">
+
 
 ## 環境構築
 
