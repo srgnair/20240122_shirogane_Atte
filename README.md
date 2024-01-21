@@ -46,8 +46,12 @@ Atte（アット）
 | サーバー       | nginx:1.21.1 |
 
 ## テーブル設計
-テーブル設計の画像
-
+#### <img width="495" alt="スクリーンショット 2024-01-21 164125" src="https://github.com/srgnair/20240122_shirogane_Atte/assets/143247574/ef802118-39fa-48fa-b8fe-b7505c1e429c">  
+  
+#### <img width="495" alt="スクリーンショット 2024-01-21 164146" src="https://github.com/srgnair/20240122_shirogane_Atte/assets/143247574/4a226376-621d-4d3f-a7a4-478d5b4e84c3">  
+  
+#### <img width="494" alt="スクリーンショット 2024-01-21 164228" src="https://github.com/srgnair/20240122_shirogane_Atte/assets/143247574/b636ee62-8f90-4898-9f61-8d3b12adda46">  
+  
 ## ER図
 <img width="429" alt="スクリーンショット 2024-01-21 163809" src="https://github.com/srgnair/20240122_shirogane_Atte/assets/143247574/596a453e-1c44-4025-bcb0-d187209201b6">
 
