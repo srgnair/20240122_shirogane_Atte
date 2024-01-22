@@ -32,13 +32,4 @@ class Rest extends Model
     {
         return $this->belongsTo(Attendance::class, 'attendance_id');
     }
-
-    // public function getTotalRestTime()
-    // {
-    //     $start = new DateTime($this->rest_start_time);
-    //     $end = new DateTime($this->rest_end_time);
-    //     $interval = $start->diff($end);
-
-    //     return $interval;
-    // }
 }

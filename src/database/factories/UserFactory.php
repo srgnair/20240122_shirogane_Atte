@@ -22,14 +22,6 @@ class UserFactory extends Factory
         ];
     }
 
-    // public function configure()
-    // {
-    //     return $this->afterCreating(function (User $user) {
-    //         $user->attendances()->createMany(Attendance::factory(5)->make()->toArray());
-    //         $user->rests()->createMany(Rest::factory(5)->make()->toArray());
-    //     });
-    // }
-
     public function unverified()
     {
         return $this->state(function (array $attributes) {

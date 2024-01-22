@@ -181,11 +181,6 @@ class TimeStampController extends Controller
                     $totalRestTime[$date] = $totalRestTime[$date]->add($start->diff($end));
                 }
             }
-
-            // $formattedAttendances = $attendances->map(function ($attendance) {
-            //     $attendance->formatted_date = Carbon::parse($attendance->clock_in_time)->format('Y-m-d');
-            //     return $attendance;
-            // });
         }
 
         return view('date', compact(
@@ -198,7 +193,6 @@ class TimeStampController extends Controller
             'date',
             'nextDate',
             'prevDate',
-            // 'formattedAttendances',
             'totalRestTime',
         ));
     }
